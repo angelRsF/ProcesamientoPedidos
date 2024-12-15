@@ -1,4 +1,3 @@
-# Crear una cola compartida
 import queue
 import random
 import threading
